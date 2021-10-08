@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294669358131",
+    "project_id": "facebook-login-3528f",
+    "storage_bucket": "facebook-login-3528f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294669358131:android:a9f0988702fbd788073f46",
+        "android_client_info": {
+          "package_name": "com.example.facebook_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294669358131-a7fnd5cier36ok1bl4hgepd6gl2qgmi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIgXUd-9buNjyolyR6KvE7sOed-N6mp9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294669358131-a7fnd5cier36ok1bl4hgepd6gl2qgmi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
