@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun signIn() {
         btn_login.registerCallback(callbackManager,object:FacebookCallback<LoginResult>{
-            override fun onSuccess(result: LoginResult?) {
+            override fun onSuccess(result: LoginResult) {
                 handleFacebookAccessToken(result!!.accessToken)
             }
 
